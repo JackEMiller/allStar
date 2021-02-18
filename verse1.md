@@ -38,9 +38,16 @@ You'll never shine if you don't glow
 | Game on  | Show on   |
 | Go play  | Get paid  |
 
-# All that glitters aint gold
-# Only shooting stars break the mold
+'''java
 
-![smashmouth](/Images/smashmouth.JPG)
+string glitter = "glitter"
+if (glitter == "gold")
+print("only shooting stars break the mold")
 
-Here's a link to the [song][https://www.youtube.com/watch?v=L_jWHffIx5E&ab_channel=SmashMouthVEVO]
+'''
+
+![smashmouth](Images/smashmouth.JPG)
+
+Here's a link to the [song][youtubelink]
+
+[youtube-link]: https://www.youtube.com/watch?v=L_jWHffIx5E&ab_channel=SmashMouthVEVO
