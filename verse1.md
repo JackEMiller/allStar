@@ -17,18 +17,18 @@ me I aint the sharpest tool in the shed
 * her
 * forehead
 
-**_ WELL _**
+**_WELL_**
 
 * the years start
 	* coming and they don't stop coming
 		* fed to the rules and I hit the ground running
 			* Didn't make sense not to live for fun
 
-** your brain gets smart but your head gets dumb **
+**your brain gets smart but your head gets dumb**
 
- _ so much to do so much to see _
+_so much to do so much to see_
  
-**_ so whats wrong with taking the back streets? _**
+**_so whats wrong with taking the back streets?_**
  
 You'll never know if you dont go
 
@@ -51,7 +51,7 @@ print("only shooting stars break the mold")
 
 ```
 
-![smashmouth](Images/smashmouth.JPG)
+![smashmouth](Images/smashmouth.jpg)
 
 Here's a link to the [song][youtubelink]
 
