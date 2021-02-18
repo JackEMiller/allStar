@@ -41,3 +41,6 @@ You'll never shine if you don't glow
 # All that glitters aint gold
 # Only shooting stars break the mold
 
+![smashmouth](/Images/smashmouth.JPG)
+
+Here's a link to the [song][https://www.youtube.com/watch?v=L_jWHffIx5E&ab_channel=SmashMouthVEVO]
