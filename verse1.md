@@ -38,16 +38,16 @@ You'll never shine if you don't glow
 | Game on  | Show on   |
 | Go play  | Get paid  |
 
-'''java
+```java
 
 string glitter = "glitter"
 if (glitter == "gold")
 print("only shooting stars break the mold")
 
-'''
+```
 
 ![smashmouth](Images/smashmouth.JPG)
 
 Here's a link to the [song][youtubelink]
 
-[youtube-link]: https://www.youtube.com/watch?v=L_jWHffIx5E&ab_channel=SmashMouthVEVO
+[youtubelink]: https://www.youtube.com/watch?v=L_jWHffIx5E&ab_channel=SmashMouthVEVO
