@@ -2,7 +2,8 @@
 
 ## Verse 1
 
-Somebody once told me the world was gonna roll 
+Somebody once told me the world was gonna roll
+ 
 me I aint the sharpest tool in the shed
 > well she was looking kinda dumb
 > with a finger and a thumb
@@ -24,9 +25,13 @@ me I aint the sharpest tool in the shed
 			* Didn't make sense not to live for fun
 
 ** your brain gets smart but your head gets dumb **
- _ so much to do so much to see _ 
-**_ so whats wrong with taking the back streets? _** 
+
+ _ so much to do so much to see _
+ 
+**_ so whats wrong with taking the back streets? _**
+ 
 You'll never know if you dont go
+
 You'll never shine if you don't glow
 
 | Hey now  | Hey Now   |
